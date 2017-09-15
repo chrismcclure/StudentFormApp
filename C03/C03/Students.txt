@@ -1,0 +1,7 @@
+Student with good lunch,79864,99,55
+Enter Student Name,1,100,100
+Audrey Loves Sand,9,4,44
+Good Student,856456,92,95
+Bafd Student,111233,20,85
+Okay Student,877613,99,59
+Chris dog 69,546784,90,80

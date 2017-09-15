@@ -1,0 +1,11 @@
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\bin\Debug\C03.exe.config
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\bin\Debug\C03.exe
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\bin\Debug\C03.pdb
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.frmStudentInfo.resources
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.frmStudentScores.resources
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.Properties.Resources.resources
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.csproj.GenerateResource.Cache
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.exe
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.pdb
+C:\Users\chris_000\Desktop\SCC\Summer 2016\C# intro\c#2012\C03\C03\obj\Debug\C03.csproj.CoreCompileInputs.cache
